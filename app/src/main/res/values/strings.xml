@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Login Screen</string>
+    <string name="loginText">Login</string>
+    <string name="username">Username: </string>
+    <string name="password">Password: </string>
+    <string name="usernameHint">Masukkan Username</string>
+    <string name="passwordHint">Masukkan Password</string>
+</resources>
